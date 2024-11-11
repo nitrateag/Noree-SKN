@@ -6,7 +6,7 @@
 
 #include <dt-bindings/zmk/matrix_transform.h>
 
-#include <noree-layouts.dtsi>
+#include "noree-layouts.dtsi"
 
 // #include <layouts/foostan/noree/6column.dtsi>
 
