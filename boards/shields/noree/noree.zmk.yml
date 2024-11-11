@@ -1,0 +1,14 @@
+file_format: "1"
+id: noree
+name: Noree
+type: shield
+url: https://github.com/nitrateag/Noree-SKN
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
+  - studio
+siblings:
+  - noree_left
+  - noree_right
